@@ -8,7 +8,7 @@ Scenario Outline: User is able to validate the GitHub API
 	
 	Examples: 
 		|URL					|token									 |code|
-		|https://api.github.com |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|200 |
+		|https://api.github.com |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|200 |
 		
 		
 	
